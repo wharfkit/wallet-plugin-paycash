@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This package lives in the WharfKit monorepo at [wharfkit/js/packages/wallet-plugin-paycash](https://github.com/wharfkit/js/tree/dev/packages/wallet-plugin-paycash), and this repository is archived. Open new issues and pull requests on [wharfkit/js](https://github.com/wharfkit/js).
+
 # @wharfkit/wallet-plugin-paycash
 
 > **⚠️ Important Notice:**
